@@ -1,0 +1,140 @@
+*{
+	box-sizing: border-box;
+}
+body::-webkit-scrollbar{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.graph-container{
+    background-color: white;
+    margin: 50px;
+    margin:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* padding-top: 10rem; */
+} 
+.intro-section{
+    background: linear-gradient(to top,#1ecff3,#4481eb);
+    height: 600px;
+    width: 100%;
+    margin: 0;
+}
+.navbar-container{
+    background-color: transparent;
+    position: sticky;
+    margin: 0;
+    padding: 20px;
+}.main-section{
+    background-color:#FCFCFC ;
+    
+}
+
+
+.info-label{
+    display: inline-block;
+
+}
+
+.info-label p{
+    text-align: center;
+}
+.footer p{
+    font-weight:bold;
+    font-size:22px;	
+     
+  }
+  .footer a{
+	text-decoration:none;
+	color:#b2b1b1;
+	font-weight:500;
+	display:block;
+	}
+
+.footer .list{
+    list-style:none;
+    padding-left: 0;
+    }
+.list li{
+	margin: 1.7rem 0;
+	}
+.footer{
+    grid-column: 1/-1;
+    background-color:#b2b1b10a;
+    height:30rem;
+    font-size:20px;
+    font-weight:bolder;   
+}
+.location p{
+    font-size:20px;
+
+}
+.footer-subpart{
+    display:inline-block;
+    list-style: none;
+    padding-bottom:10rem;
+    margin: 0 3rem;
+    display:inline-block;
+    list-style: none;
+
+}
+.footer-contact-us .info{
+    font-size:20px;
+    font-weight:normal;
+}
+.footer__part-1{
+    border-top: 1.5px solid #b2b1b1;
+    display:flex;
+    justify-content:space-between;
+    padding-top: 5rem;		
+    padding-bottom:5rem;
+    padding-right:10rem;
+            		
+    }
+.footer-rudra{
+  margin-left:60px;		
+  width: 258px;
+  height: 108px;
+  object-fit: contain;
+  font-family: Montserrat;
+  font-size: 44px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: left;
+  color: #3bb4c4;
+}
+.color-bar{
+width: 3.7rem;
+height: 0.3rem;
+background:#3bb4c4;
+display: block;
+margin: 0.4rem 0;    
+}
+.color-bar{
+    width: 3rem;
+    height: 0.3rem;
+    background:#3bb4c4;
+    display: block;
+    margin: 0.4rem 0;    
+}
+.footer__part-2 p{
+    color:#707070;
+    font-size:20px;
+    font-weight:normal;
+}
+.footer__part-2{
+    padding-top:15px;
+    padding-bottom:20px;    		
+    width:90vw;
+    margin:auto;
+    border-top: 1.5px solid #b2b1b1;
+    color: #b2b1b1;
+     
+}
+.footer2-container{
+    font-size:1.2rem;
+    display:flex;
+    justify-content:space-between;
+
+}

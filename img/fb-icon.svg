@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_5" width="42.072" height="42.072" data-name="Group 5" viewBox="0 0 42.072 42.072">
+    <defs>
+        <style>
+            .cls-1{fill:#3bb4c4}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <circle id="Ellipse_7" cx="21.036" cy="21.036" r="21.036" class="cls-1" data-name="Ellipse 7"/>
+    <path id="icon" d="M2.555 25.549A2.558 2.558 0 0 1 0 22.995V2.555A2.558 2.558 0 0 1 2.555 0h20.44a2.558 2.558 0 0 1 2.555 2.555v20.44a2.558 2.558 0 0 1-2.555 2.555zm0-2.555h20.44V2.555H2.555zm11.5-2.555V12.78h-2.388v-2.554h2.385V8.943a3.834 3.834 0 0 1 3.833-3.833h1.277v2.555h-1.277a1.278 1.278 0 0 0-1.278 1.277v1.283h2.533v2.555h-2.533v7.66z" class="cls-2" transform="translate(7.889 7.889)"/>
+</svg>
