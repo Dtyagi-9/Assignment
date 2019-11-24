@@ -32,17 +32,17 @@
        datasets: [{
           label: 'Air temperature',
           data: prop1,
-          backgroundColor: 'rgba(0, 119, 204, 0.3)'
+          backgroundColor: 'rgba(155, 187, 88, 0.3)'
        },
        {
           label: 'Humidity',
           data: prop2,
-          backgroundColor: 'rgba(200, 119, 104, 0.3)'
+          backgroundColor: 'rgba(192, 80, 78, 0.3)'
        },
        {
           label: 'Wind Speed',
           data: prop3,
-          backgroundColor: 'rgba(255, 219, 204, 0.3)'
+          backgroundColor: 'rgba(247, 150, 71, 0.3)'
        }
        ]
     }
